@@ -51,12 +51,10 @@ Configuration
 -------------
 application.properties
 
-
 Testing
 -------------------------------------
 #### UNIT Tests (MockMvc)
 com.personalinformation.controller.PersonalInformationControllerTest
-
 
 Release note
 -------------------------------------
